@@ -1,0 +1,23 @@
+title
+
+x = 21
+y = 79
+fs = 63.67
+lh = 61.4
+
+style line
+
+x = 23.43
+y = 227.83
+w = 174.02
+
+paragraph
+
+x = 21
+y = 283.49
+fs = 39.99
+
+decoration
+
+x = 979
+y = 157.51
